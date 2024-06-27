@@ -103,22 +103,6 @@
       ]
     },
     {
-      "tag": "creador",
-      "patterns": [
-        "quien fue que te creo",
-        "quien es tu creador",
-        "quien te hizo",
-        "quien te creo",
-        "quien te ha creado",
-        "cual es tu creador",
-        "quiero saber quien te hizo",
-        "sabes quien te creo"
-      ],
-      "responses": [
-        "Los estudiantes de Ingenieria de Sistemas de 7mo semestre."
-      ]
-    },
-    {
       "tag": "amigos_academicos",
       "patterns": [
         "¿Quienes son los amigos academicos?",
@@ -175,7 +159,8 @@
       ],
       "responses": [
         "Los semilleros son grupos de investigacion donde los estudiantes pueden participar en proyectos academicos y cientificos.",
-        "En Ingenieria de Sistemas los semilleros que existen son: Silux, SiaWeb, Viral."
+        "En Ingenieria de Sistemas los semilleros que existen son: Silux (Linux y desarrollo de software Libre), SiaWeb, Inteligencia artificial SIA, redes y seguridad (SIREDSE), Videojuegos y Mineria de datos. ",
+        "Para participar en un semillero tienes que consultar a los horarios de estos, que son actualizados cada semestre."
       ]
     },
     {
