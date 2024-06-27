@@ -200,6 +200,7 @@
       "tag": "requisitos_grado",
       "patterns": [
         "¿Cuales son los requisitos para graduarme?",
+        "¿Cuales son los requisitos de grado?",
         "¿Que necesito hacer para graduarme?",
         "¿Cuantas cosas tengo que hacer para graduarme?",
         "¿Me puedo graduar realizando cursos de profundizacion?",
@@ -208,7 +209,7 @@
       ],
       "responses": [
         "Los requisitos de grado que debes realizar, es terminar todo los creditos del pensum (164). Ademas de realizar 3 materias eletivas socio-humanisticas y 6 electivas materias profesionales. Tambien debes realizar 2 cursos de profundizacion y realizar un proyecto de investigacion de pregrado o un curso de profundizacion",
-        "Puedes graduarte realizando un curso de profundizacion o con tesis. Como mejor te parezca. Debes tener en cuenta que deber terminar todas tus materias para la presentación del examen de profundización o la sustentación de la tesis.",
+        "Puedes graduarte realizando un curso de profundizacion o con tesis. Como mejor te parezca. Debes tener en cuenta que deber terminar todas tus materias para la presentacion del examen de profundizacion o la sustentacion de la tesis.",
         "Es obligatorio realizar la tesis o curso de profundizacion para graduarte.",
         "El examen de ingles es obligatorio para graduarte, este examen lo puedes realizar desde 1er semestre."
       ]
